@@ -9,3 +9,4 @@ do
 echo "Each Num value is $num"
 done
 echo "The sum of First n number is : $mult"
+echo "Done"
