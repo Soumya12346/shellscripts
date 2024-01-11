@@ -1,0 +1,4 @@
+#:/bin/bash
+var=$@
+var1=$2
+echo -e "welcome"
